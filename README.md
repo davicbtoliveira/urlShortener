@@ -72,4 +72,4 @@ Um encurtador de URLs simples desenvolvido em Java utilizando o framework Spring
 
 ## Contato
 
-- Autor: [David Oliveira](https://github.com/davicbtoliveira)
+- Autor: [Davi Oliveira](https://github.com/davicbtoliveira)
